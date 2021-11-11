@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tema05Ejercicio1</string>
+    <string name="lbHoyEs">Hoy es...</string>
+    <string name="naciste">Naciste...</string>
+    <string name="fecha_de_nacimiento">FECHA DE NACIMIENTO</string>
+    <string name="numeroDias">Calcula el número de días desde tu\n fecha de nacimiento</string>
+</resources>
